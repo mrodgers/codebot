@@ -1,0 +1,2 @@
+# codebot
+selfcontained code assistant
